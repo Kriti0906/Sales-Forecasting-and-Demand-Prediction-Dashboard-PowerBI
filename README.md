@@ -33,7 +33,7 @@ The dashboard answers key business questions:
 | `Superstore_Project_Dataset_cleaned (1).xlsx` | Cleaned dataset used for analysis |
 
 ## Dashboard Preview
-![Dashboard Screenshot](screenshots/Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 
 ## Key Insights
