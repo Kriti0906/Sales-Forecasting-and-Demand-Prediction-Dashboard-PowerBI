@@ -24,7 +24,7 @@ The dashboard answers key business questions:
 - **Forecasted Sales Trend** – projected monthly sales for the next 12 months
 - **Peak Sales Periods** – identifies months with highest demand for planning purposes
 
-## 📁 Repository Contents
+## Repository Contents
 | File | Description |
 |------|-------------|
 | `Sales Forecasting & Demand Prediction Dashboard.pbix` | Power BI source file |
